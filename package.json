@@ -4,6 +4,7 @@
     "description": "",
     "version": "0.0.1",
     "license": "MIT",
+    "publisher": "mikaelkristiansson87",
     "author": "Mikael Kristiansson <mikael.kristiansson87@gmail.com>",
     "icon": "night-owl.png",
     "engines": {
