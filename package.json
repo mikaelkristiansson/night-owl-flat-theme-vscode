@@ -7,6 +7,10 @@
     "publisher": "mikaelkristiansson87",
     "author": "Mikael Kristiansson <mikael.kristiansson87@gmail.com>",
     "icon": "night-owl.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mikaelkristiansson/night-owl-flat-theme-vscode"
+    },
     "engines": {
         "vscode": "^1.57.0"
     },
