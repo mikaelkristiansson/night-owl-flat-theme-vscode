@@ -1,7 +1,7 @@
 {
     "name": "night-owl-flat-theme-vscode",
-    "displayName": "night-owl-flat",
-    "description": "",
+    "displayName": "Night Owl Flat",
+    "description": "Flat version of original night owl theme",
     "version": "0.0.1",
     "license": "MIT",
     "author": "Mikael Kristiansson <mikael.kristiansson87@gmail.com>",
