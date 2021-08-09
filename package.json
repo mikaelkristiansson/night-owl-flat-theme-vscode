@@ -1,0 +1,24 @@
+{
+    "name": "night-owl-flat-theme-vscode",
+    "displayName": "night-owl-flat",
+    "description": "",
+    "version": "0.0.1",
+    "license": "MIT",
+    "author": "Mikael Kristiansson <mikael.kristiansson87@gmail.com>",
+    "icon": "night-owl.png",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Night Owl Flat",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Night Owl Flat-color-theme.json"
+            }
+        ]
+    }
+}
